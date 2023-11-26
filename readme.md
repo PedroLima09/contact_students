@@ -38,8 +38,8 @@ Feel free to contribute to the project by forking it and submitting a pull reque
 
 ## Instalation
 
-- [Windows] (dist/Windows/main.exe)
-- [MacOs] (dist/MacOs/main)
+- [Windows](dist/Windows/main.exe)
+- [MacOs](dist/MacOs/main)
 
 ## License
 
