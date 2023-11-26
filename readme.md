@@ -36,6 +36,11 @@ After filling out all the fields, simply click the "Send" button, and the defaul
 
 Feel free to contribute to the project by forking it and submitting a pull request.
 
+## Instalation
+
+- [Windows] (dist/Windows/main.exe)
+- [MacOs] (dist/MacOs/main)
+
 ## License
 
 MIT License.
