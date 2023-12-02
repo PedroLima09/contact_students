@@ -60,7 +60,8 @@ Contributions are welcome. Please fork the repository and submit your pull reque
 
 ## Instalation
 
-- [MacOs](dist/macOs/contact_student)
+- [MacOs](dist/macOs/contact_student.zip)
+- [Windows](dist/Windows/contact_student.zip)
 
 ## License
 This project is under the MIT License.
